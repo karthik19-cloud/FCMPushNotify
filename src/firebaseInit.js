@@ -17,7 +17,7 @@ const messaging = getMessaging(firebaseApp);
 
 
 
-const publicKey = "BDIB_hyNkWQtqLgo8vi0Sp9UcJzPESLfXYYBEoRQxtW8cK7zPXcGVxmWmfN2rRzIE_sGQtoWpZKpBHG0hzuYEBg";
+const publicKey = "";
 
 
 
