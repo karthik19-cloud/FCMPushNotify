@@ -11,6 +11,7 @@ Npm
 5. npm install
 6. npm run start
 7. Access the application with http://localhost:9000
- 
-
+8. Run it on Chrome and open chrome developer tool(F12). Go to console and you can find the device token.
+9. Go to FCM console and send test message using the device token that you have copied in the step #8. Refer the below link to send test message.
+https://firebase.google.com/docs/cloud-messaging/js/first-message
 ```
